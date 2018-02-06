@@ -1,4 +1,4 @@
-# Go Book
+# Go Book :)
 
 **Name:** *Anuwat Khudkanya*
 
@@ -7,6 +7,8 @@
 **Job Title** *QA&SW Control*
 
 ## Chapter 2
+
+* Chapter 2.1 : My First Program
 
 ## Chapter 3
 
